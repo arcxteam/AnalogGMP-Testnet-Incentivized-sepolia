@@ -26,6 +26,8 @@ A total reward pool of up to 1,811,594 ANLOG tokens, representing 2.0% of the to
 4. Join Analog Discord [https://discord.com/invite/analog](https://discord.gg/EACM5k6H7u)
 4. COMMUNITY QUESTS
 
+1 https://sepolia.etherscan.io/address/0xb5d83c2436ad54046d57cd48c00d619d702f3814#writeContract 
+2 https://docs.analog.one/documentation/developers/analog-gmp/supported-networks
 
 
 
@@ -40,9 +42,14 @@ A total reward pool of up to 1,811,594 ANLOG tokens, representing 2.0% of the to
 
 
 
-first ![Analog-Incentivized-Testnet (2)](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/0a8af0f2-4aa2-4481-ad90-a63ccbc2c5b7) 
-second ![Analog-Incentivized-Testnet (1)](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/79b2a928-f39e-4636-b206-72d0d4ff4e84)
-third ![Gateway-Address-0xb5d83c2436ad54046d57cd48c00d619d702f3814-Etherscan](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/b981cff1-f4a4-421e-b487-921a46874aac)
+first ![Gateway-Address-0xb5d83c2436ad54046d57cd48c00d619d702f3814-Etherscan (1)](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/7d13d17e-ae1c-4e73-bb50-402a0f139e45)
+
+second ![GMP Analog-Incentivized-Testnet (3)](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/fe7b4735-154d-4927-8e75-076395c78e51)
+
+third ![Remix-Ethereum-IDE-Analog testnet](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/b9e182b5-8191-4e6f-9dff-cc0ec164020b)
+
+
+
 
 
 
