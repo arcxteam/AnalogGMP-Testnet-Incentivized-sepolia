@@ -37,17 +37,15 @@ A total reward pool of up to 1,811,594 ANLOG tokens, representing 2.0% of the to
 
 
 
+![CAcreate](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/ae81df87-f92f-4aa1-9d2d-4a8028372fe8)
+![Shibuya-address-details-for-0x0b7fC3d1C1A648a0780970756b30C5b8042aa359-Blockscout](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/d53d9b51-c354-4dc2-a53d-2bdc956d377a)
+![GMP proof](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/d5a66b9b-d7de-4007-a2f0-2655aa614d41)
+![cauploadremix](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/f1ba66ee-5305-4d4f-b2e2-33757a3df9d1)
 
 
 
 
-or ![Sepolia-address-details-for-0xB5D83c2436Ad54046d57Cd48c00D619D702F3814-Blockscout](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/15211232-e202-4543-b4bd-4a8c43d165db)
 
-first ![Gateway-Address-0xb5d83c2436ad54046d57cd48c00d619d702f3814-Etherscan (1)](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/7d13d17e-ae1c-4e73-bb50-402a0f139e45)
-
-second ![GMP Analog-Incentivized-Testnet (3)](https://github.com/arcxteam/AnalogGMP-Testnet-Sepolia/assets/33593974/fe7b4735-154d-4927-8e75-076395c78e51)
-
-third ![Remix-Ethereum-IDE Analog](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/b8552088-9e96-4a09-8d70-f73e027a8574)
 
 four ![Sepolia-address-details-for-0x95303661FEc7807eB38E89554948cA1B0AE09944-Blockscout](https://github.com/arcxteam/AnalogGMP-Testnet-Incentivized-sepolia/assets/33593974/87026a85-3c2a-419c-89a9-448c7f22b99a)
 
